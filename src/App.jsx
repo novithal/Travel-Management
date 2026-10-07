@@ -9,7 +9,7 @@ import {
 } from "react-router-dom";
 
 import Sidebar from "./components/Sidebar";
-import Settings from "./Pages/Settings";
+import Settings from "./pages/Settings";
 import Topbar from "./components/Topbar";
 import Toast from "./components/Toast";
 
